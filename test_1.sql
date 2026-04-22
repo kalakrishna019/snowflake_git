@@ -1,1 +1,1 @@
-create table tst as select * from emp;
+create table tst as select * from emp2;
